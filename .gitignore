@@ -1,0 +1,22 @@
+# nuxt
+.nuxt
+.output
+.data
+.vercel
+.netlify
+dist
+
+# node
+node_modules
+*.log
+.npm
+.pnpm-debug.log
+
+# env
+.env
+.env.local
+
+# editor
+.DS_Store
+.vscode
+.idea
